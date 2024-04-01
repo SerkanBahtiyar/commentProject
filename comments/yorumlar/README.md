@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <p align="center">
-  <img src="https://github.com/SerkanBahtiyar/apiProject/blob/main/apiProje/resimapi/src/components/pngg/a.png" alt="image1">
+  <img src="https://github.com/SerkanBahtiyar/commentProject/blob/main/comments/yorumlar/src/im/s.png" alt="image1">
 
 </p>
 
